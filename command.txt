@@ -1,5 +1,6 @@
 
 git init
+#for every change
 git add .
 git commit -m "first commit"
 git branch -M main
