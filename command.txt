@@ -1,4 +1,4 @@
-
+#after every change
 git init
 
 git add .
@@ -9,7 +9,7 @@ git push -u origin main
 
 #for every change
 
-git add .
-git commit -m "first commit"
+git add command.txt
+git commit -m "instructions"
 git branch -M main
 git push -u origin main
